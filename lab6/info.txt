@@ -1,0 +1,3 @@
+Car name: Audi
+Car model: A6
+Car weight: 1700
